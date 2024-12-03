@@ -1,4 +1,6 @@
 # The Gruff Goat
 
+---
+
 * Name: Billy
-* Color: Black
+* Color: Blue
